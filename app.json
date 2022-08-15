@@ -7,7 +7,7 @@
 		"merge",
 		"bot"
 	],
-	"repository": "https://github.com/yashoswalyo/MERGE-BOT",
+	"repository": "https://github.com/hotmoon6/MergeIt",
 	"website": "https://telegram.dog/yashoswalyo",
 	"stack": "container",
 	"env": {
